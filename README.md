@@ -169,7 +169,7 @@
       Produk
      </span>
     </a>
-    <a class="bg-white text-blue-500 font-semibold py-2 px-4 rounded-full flex items-center justify-center space-x-2" href="#">
+    <a class="bg-white text-blue-500 font-semibold py-2 px-4 rounded-full flex items-center justify-center space-x-2" href="#medsos">
      <i class="fas fa-globe">
      </i>
      <span>
@@ -184,121 +184,106 @@
 <body class="bg-gray-100">
     <div class="container mx-auto p-4">
         <div class="flex flex-col md:flex-row justify-center items-center space-y-4 md:space-y-0 md:space-x-4">
-            <!-- ENTRY Plan -->
+            <!-- PAKET 1 -->
             <div class="bg-white rounded-lg shadow-lg p-6 w-full md:w-1/4">
                 <div class="bg-blue-600 text-white text-center py-2 rounded-t-lg">
-                    <h2 class="text-xl font-bold">ENTRY</h2>
+                    <h2 class="text-xl font-bold">PAKET 1</h2>
                 </div>
                 <div class="text-center py-4">
-                    <p class="line-through text-gray-500">Rp 25.000</p>
-                    <p class="text-purple-600 font-bold">SAVE 40%</p>
+                    <p class="line-through text-gray-500">Rp 10.000</p>
+                    <p class="text-purple-600 font-bold">SAVE 100%</p>
+                    <p class="text-3xl font-bold">Rp 5.000,-</p>
+                    <p class="text-gray-500">per bulan</p>
+                </div>
+                <div class="text-center py-4">
+                    <button class="bg-green-500 text-white font-bold py-2 px-4 rounded"><a href="https://wa.me/62895611420605">PESAN SEKARANG</a></button>
+                </div>
+                <ul class="text-left text-sm space-y-2">
+                    <li class="text-green-600"><i class="fas fa-check"></i> 10 GB </li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> Slot Player 50</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> Disk 5 GB</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> CPU 100%</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> Linux/Windows</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> Database On</li>
+                </ul>
+                <div class="text-center py-4">
+                    <a href="#" class="text-blue-600">Lihat detail fitur ></a>
+                </div>
+            </div>
+            <!-- PAKET 2 -->
+            <div class="bg-white rounded-lg shadow-lg p-6 w-full md:w-1/4">
+                <div class="bg-blue-600 text-white text-center py-2 rounded-t-lg">
+                    <h2 class="text-xl font-bold">PAKET 2</h2>
+                </div>
+                <div class="text-center py-4">
+                    <p class="line-through text-gray-500">Rp 15.000</p>
+                    <p class="text-purple-600 font-bold">SAVE 100%</p>
+                    <p class="text-3xl font-bold">Rp 10.000,-</p>
+                    <p class="text-gray-500">per bulan</p>
+                </div>
+                <div class="text-center py-4">
+                    <button class="bg-green-500 text-white font-bold py-2 px-4 rounded"><a href="https://wa.me/62895611420605">PESAN SEKARANG</a></button>
+                </div>
+                <ul class="text-left text-sm space-y-2">
+                    <li class="text-green-600"><i class="fas fa-check"></i> 20 GB </li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> Slot Player 80</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> Disk 10 GB</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> CPU 100%</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> Linux/Windows</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> Database On</li>
+                </ul>
+                <div class="text-center py-4">
+                    <a href="#" class="text-blue-600">Lihat detail fitur ></a>
+                </div>
+            </div>
+            <!-- PAKET 3 -->
+            <div class="bg-white rounded-lg shadow-lg p-6 w-full md:w-1/4">
+                <div class="bg-orange-500 text-white text-center py-2 rounded-t-lg">
+                    <h2 class="text-xl font-bold">PAKET 3</h2>
+                </div>
+                <div class="text-center py-4">
+                    <p class="line-through text-gray-500">Rp 20.000</p>
+                    <p class="text-orange-500 font-bold">SAVE 100%</p>
                     <p class="text-3xl font-bold">Rp 15.000,-</p>
                     <p class="text-gray-500">per bulan</p>
                 </div>
                 <div class="text-center py-4">
                     <button class="bg-green-500 text-white font-bold py-2 px-4 rounded"><a href="https://wa.me/62895611420605">PESAN SEKARANG</a></button>
-                    <p class="text-gray-500 mt-2">Free SSL</p>
                 </div>
                 <ul class="text-left text-sm space-y-2">
-                    <li class="text-green-600"><i class="fas fa-check"></i> 1 GB space</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Unlimited traffic</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Unlimited email</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> 3 domain</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Free Weebly sitebuilder</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Free SSL</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Entry Cloud Resource</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Turbo Booster (optional)</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Security360 (optional)</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> 35 GB </li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> Slot Player 120</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> Disk 20 GB</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> CPU 100%</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> Linux/Windows</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> Database On 2</li>
                 </ul>
                 <div class="text-center py-4">
                     <a href="#" class="text-blue-600">Lihat detail fitur ></a>
                 </div>
             </div>
-            <!-- SMALL Plan -->
+            <!-- PAKET 4 -->
             <div class="bg-white rounded-lg shadow-lg p-6 w-full md:w-1/4">
                 <div class="bg-blue-600 text-white text-center py-2 rounded-t-lg">
-                    <h2 class="text-xl font-bold">SMALL</h2>
+                    <h2 class="text-xl font-bold">PAKET 4</h2>
                 </div>
                 <div class="text-center py-4">
-                    <p class="line-through text-gray-500">Rp 50.000</p>
-                    <p class="text-purple-600 font-bold">SAVE 65%</p>
-                    <p class="text-3xl font-bold">Rp 17.900,-</p>
+                    <p class="line-through text-gray-500">Rp 30.000</p>
+                    <p class="text-purple-600 font-bold">SAVE 100%</p>
+                    <p class="text-3xl font-bold">Rp 25.000,-</p>
                     <p class="text-gray-500">per bulan</p>
                 </div>
                 <div class="text-center py-4">
                     <button class="bg-green-500 text-white font-bold py-2 px-4 rounded"><a href="https://wa.me/62895611420605">PESAN SEKARANG</a></button>
-                    <p class="text-gray-500 mt-2">Free SSL, Free domain, dan Free premium Wordpress Plugin & Themes senilai Rp 10 mio.</p>
+                    <p class="text-gray-500 mt-2">Free Setup Server sampe on+Free Set Admin.</p>
                 </div>
                 <ul class="text-left text-sm space-y-2">
-                    <li class="text-green-600"><i class="fas fa-check"></i> Unlimited space</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Unlimited traffic</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Unlimited email</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> 6 domain</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Free Weebly sitebuilder</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Free SSL dari Let’s Encrypt</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Small Cloud Resource</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Turbo Booster (optional)</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Security360 (optional)</li>
-                </ul>
-                <div class="text-center py-4">
-                    <a href="#" class="text-blue-600">Lihat detail fitur ></a>
-                </div>
-            </div>
-            <!-- MEDIUM Plan -->
-            <div class="bg-white rounded-lg shadow-lg p-6 w-full md:w-1/4">
-                <div class="bg-orange-500 text-white text-center py-2 rounded-t-lg">
-                    <h2 class="text-xl font-bold">MEDIUM</h2>
-                </div>
-                <div class="text-center py-4">
-                    <p class="line-through text-gray-500">Rp 90.000</p>
-                    <p class="text-orange-500 font-bold">SAVE 67%</p>
-                    <p class="text-3xl font-bold">Rp 29.900,-</p>
-                    <p class="text-gray-500">per bulan</p>
-                </div>
-                <div class="text-center py-4">
-                    <button class="bg-green-500 text-white font-bold py-2 px-4 rounded"><a href="https://wa.me/62895611420605">PESAN SEKARANG</a></button>
-                    <p class="text-gray-500 mt-2">Free SSL, Free domain, dan Free premium Wordpress Plugin & Themes senilai Rp 10 mio.</p>
-                </div>
-                <ul class="text-left text-sm space-y-2">
-                    <li class="text-green-600"><i class="fas fa-check"></i> Unlimited space</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Unlimited traffic</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Unlimited email</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Unlimited domain</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Free Weebly sitebuilder</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Free SSL dari Let’s Encrypt</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Medium Cloud Resource</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Turbo Booster included</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Security360 included</li>
-                </ul>
-                <div class="text-center py-4">
-                    <a href="#" class="text-blue-600">Lihat detail fitur ></a>
-                </div>
-            </div>
-            <!-- LARGE Plan -->
-            <div class="bg-white rounded-lg shadow-lg p-6 w-full md:w-1/4">
-                <div class="bg-blue-600 text-white text-center py-2 rounded-t-lg">
-                    <h2 class="text-xl font-bold">LARGE</h2>
-                </div>
-                <div class="text-center py-4">
-                    <p class="line-through text-gray-500">Rp 140.000</p>
-                    <p class="text-purple-600 font-bold">SAVE 65%</p>
-                    <p class="text-3xl font-bold">Rp 49.900,-</p>
-                    <p class="text-gray-500">per bulan</p>
-                </div>
-                <div class="text-center py-4">
-                    <button class="bg-green-500 text-white font-bold py-2 px-4 rounded"><a href="https://wa.me/62895611420605">PESAN SEKARANG</a></button>
-                    <p class="text-gray-500 mt-2">Free SSL, Free domain, dan Free premium Wordpress Plugin & Themes senilai Rp 10 mio.</p>
-                </div>
-                <ul class="text-left text-sm space-y-2">
-                    <li class="text-green-600"><i class="fas fa-check"></i> Unlimited space</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Unlimited traffic</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Unlimited email</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Unlimited domain</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Free Weebly sitebuilder</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Free SSL dari Let’s Encrypt</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Large Cloud Resource</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Turbo Booster included</li>
-                    <li class="text-green-600"><i class="fas fa-check"></i> Security360 included</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> 100 GB </li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> Slot Player 300</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> Disk 50 GB</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> CPU 100%</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> Linux/Windows</li>
+                    <li class="text-green-600"><i class="fas fa-check"></i> Database On 3</li>
                 </ul>
                 <div class="text-center py-4">
                     <a href="#" class="text-blue-600">Lihat detail fitur ></a>
